@@ -24,7 +24,8 @@
 ## TOTAL PROFILE VIEWS 🌍
 ![Visitor Count](https://profile-counter.glitch.me/MrIsuru/count.svg)
 
-<a href='https://president-md-ofc.vercel.app/' target="_blank"><img alt='qr repo' src='https://img.shields.io/badge/President-Md-Ofc-Website-black?style=for-the-badge&logo=openv&logoColor=white'/></a>
+<a href='https://president-md-ofc.vercel.app/' target="_blank"><img alt='qr repo' src='https://img.shields.io/badge/President Md Ofc Website-black?style=for-the-badge&logo=openv&logoColor=white'/></a>
+
 
 
 
