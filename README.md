@@ -22,7 +22,10 @@
 ![stars](https://img.shields.io/github/stars/MrIsuru/PRESIDENT-MD?style=social)
   
 ## TOTAL PROFILE VIEWS 🌍
-![Visitor Count](https://profile-counter.glitch.me/MrIsuru/count.svg) 
+![Visitor Count](https://profile-counter.glitch.me/MrIsuru/count.svg)
+
+<a href='https://president-md-ofc.vercel.app/' target="_blank"><img alt='qr repo' src='https://img.shields.io/badge/President-Md-Ofc-Website-black?style=for-the-badge&logo=openv&logoColor=white'/></a>
+
 
 
 ## ➣ 𝗚𝗘𝗧 𝗦𝗘𝗦𝗦𝗜𝗢𝗡 𝗜𝗗 (𝗤𝗥 𝗖𝗢𝗗𝗘)
