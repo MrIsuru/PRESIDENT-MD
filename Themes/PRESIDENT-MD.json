@@ -1,0 +1,55 @@
+{
+  "__JSON__": true,
+  "AUTHOR": "MrIsuru(CYBER-ISURU)",
+  "LANGUAGE": "English",
+  "LANGCODE": "en",
+  "STRINGS": {
+      "updater": {
+          "UPDATE": "*Your bot is already on latest version♻️*",
+          "NEW_UPDATE": "*There is a new update available for the bot!*\n\n*Changes:*\n",
+          "UPDATED_LOCAL": "*Successfully Updated!✅*"
+      },
+      "global": {
+          "greet2": "Konnichiwa!(💚ω💚)",
+          "botName": "𝐏𝐑𝐄𝐒𝐈𝐃𝐄𝐍𝐓-𝐌𝐃",
+          "body": "𝑊ℎ𝑎𝑡𝑠𝑎𝑝𝑝-𝐵𝑜𝑡𝑡𝑜",
+          "pic1": "https://i.postimg.cc/Gmh9VMZ5/PRESIDENT-MD.jpg",
+          "pic2": "https://i.postimg.cc/Gmh9VMZ5/PRESIDENT-MD.jpg",
+          "pic3": "https://i.postimg.cc/Gmh9VMZ5/PRESIDENT-MD.jpg",
+          "pic4": "https://i.postimg.cc/Gmh9VMZ5/PRESIDENT-MD.jpg",
+          "pic5": "https://i.postimg.cc/Gmh9VMZ5/PRESIDENT-MD.jpg",
+          "pic6": "https://i.postimg.cc/Gmh9VMZ5/PRESIDENT-MD.jpg",
+          "pic7": "https://i.postimg.cc/Gmh9VMZ5/PRESIDENT-MD.jpg",
+           "greet" : "| Welcome To President Md Command List.*\n\n  *⦁ ᴘʀᴇꜱɪᴅᴇɴᴛ - ᴍᴜʟᴛɪᴅᴇᴠɪᴄᴇ ⦁*\n*❬ ᴅᴇᴠᴇʀʟᴏᴘᴇᴅ ʙʏ ᴄʏʙᴇʀ ɪꜱᴜʀᴜ ❭",
+          "dotbody" : "*Hey,There I Am Online Now♥️.*\n\n  *⦁ ᴘʀᴇꜱɪᴅᴇɴᴛ - ᴍᴜʟᴛɪᴅᴇᴠɪᴄᴇ ⦁*\n*❬ ᴅᴇᴠᴇʀʟᴏᴘᴇᴅ ʙʏ ᴄʏʙᴇʀ ɪꜱᴜʀᴜ ❭*",
+          "promote": "*Admin Role Given To My Sexy Script*\n\n  *⦁ ᴘʀᴇꜱɪᴅᴇɴᴛ - ᴍᴜʟᴛɪᴅᴇᴠɪᴄᴇ ⦁*\n*❬ ᴅᴇᴠᴇʀʟᴏᴘᴇᴅ ʙʏ ᴄʏʙᴇʀ ɪꜱᴜʀᴜ ❭*",
+          "pmallow": "*Hii,This is PRESIDENT-MD*\n*An assistant of My Master.*\n*My Master is busy right now.*\n*Kindly Leave your Message.*\n\n_I will inform him about your message asap......_\n\n  *⦁ ᴘʀᴇꜱɪᴅᴇɴᴛ - ᴍᴜʟᴛɪᴅᴇᴠɪᴄᴇ ⦁*\n*❬ ᴅᴇᴠᴇʀʟᴏᴘᴇᴅ ʙʏ ᴄʏʙᴇʀ ɪꜱᴜʀᴜ ❭*",
+          "pmblock": "*❌ Blocked\n\n You have been blocked for spamming.*\n\n  *⦁ ᴘʀᴇꜱɪᴅᴇɴᴛ - ᴍᴜʟᴛɪᴅᴇᴠɪᴄᴇ ⦁*\n*❬ ᴅᴇᴠᴇʀʟᴏᴘᴇᴅ ʙʏ ᴄʏʙᴇʀ ɪꜱᴜʀᴜ ❭*",
+          "pmwarn": "*✋Hii \nPlease don't spam else I'll block you for spamming.* _You have ${checkPermit.times} warning(s)._\n\n  *⦁ ᴘʀᴇꜱɪᴅᴇɴᴛ - ᴍᴜʟᴛɪᴅᴇᴠɪᴄᴇ ⦁*\n*❬ ᴅᴇᴠᴇʀʟᴏᴘᴇᴅ ʙʏ ᴄʏʙᴇʀ ɪꜱᴜʀᴜ ❭*",
+          "permited": "*Hii ${tname} Sir*\n\n*Now You are permitted by my owner to pm now.*\n\n  *⦁ ᴘʀᴇꜱɪᴅᴇɴᴛ - ᴍᴜʟᴛɪᴅᴇᴠɪᴄᴇ ⦁*\n*❬ ᴅᴇᴠᴇʀʟᴏᴘᴇᴅ ʙʏ ᴄʏʙᴇʀ ɪꜱᴜʀᴜ ❭*", 
+          "revoked" : "*Hii ${tname} Sir*\n\n*Your pm permit permission has been prevoked now.*\n\n  *⦁ ᴘʀᴇꜱɪᴅᴇɴᴛ - ᴍᴜʟᴛɪᴅᴇᴠɪᴄᴇ ⦁*\n*❬ ᴅᴇᴠᴇʀʟᴏᴘᴇᴅ ʙʏ ᴄʏʙᴇʀ ɪꜱᴜʀᴜ ❭*",
+          "demote": "*Uhh, Admin Role Taken back.*\n\n  *⦁ ᴘʀᴇꜱɪᴅᴇɴᴛ - ᴍᴜʟᴛɪᴅᴇᴠɪᴄᴇ ⦁*\n*❬ ᴅᴇᴠᴇʀʟᴏᴘᴇᴅ ʙʏ ᴄʏʙᴇʀ ɪꜱᴜʀᴜ ❭*",
+          "antlink": "*Link Detected❗*\n*Good Bye Sir*\n\n  *⦁ ᴘʀᴇꜱɪᴅᴇɴᴛ - ᴍᴜʟᴛɪᴅᴇᴠɪᴄᴇ ⦁*\n*❬ ᴅᴇᴠᴇʀʟᴏᴘᴇᴅ ʙʏ ᴄʏʙᴇʀ ɪꜱᴜʀᴜ ❭*",
+          "session": "\n*This is your session.presi.json,keep it safe and store it properly*\n_Now Upload This json file in Your Forked Repo_\n Connect your repo to Heroku and *Deploy Branch* and Bot will run for Always\n\n*𝑷𝒐𝒘𝒆𝒓𝒆𝒅 𝒃𝒚 𝐏𝐑𝐄𝐒𝐈𝐃𝐄𝐍𝐓 𝐌𝐃*",
+          "mention": " *Please mention any user Darling*",
+          "title": "PRESIDENT-MD",
+          "footer": "PRESIDENT-MD",
+          "by": "Made by: *CitelVoid*",
+          "chat_desc": "Options Avilable* : 1. mute\n2. unmute\n3. archive\n4. unarchive\n5. read\n6. unread\n7. delete",
+          "success": "Done ✓",
+          "dot": "*Darling📍, Do you mean help?*",
+          "couple_male": "*I dont want to die alone,I want a female yaar*",
+          "couple_female": "*I dont want to die alone,I want a male yaar*",
+          "admin": "*Oɴʟʏ Gʀᴏᴜᴘ Aᴅᴍɪɴꜱ Cᴀɴ Uꜱᴇ Tʜɪꜱ Cᴏᴍᴍᴀɴᴅ 👨‍🎓🖥️*",
+          "botAdmin": "*Iꜰ Yᴏᴜ Rᴇᴀʟʟʏ Wᴀɴᴛ Mᴇ Tᴏ Dᴏ Tʜɪꜱ, Gɪᴠᴇ Tʜᴀᴛ Mᴇ Aᴅᴍɪɴ Pʀɪᴠɪʟᴇɢᴇ 👨‍🔧❗*",
+          "owner": "*Oɴʟʏ Mʏ Oᴡɴᴇʀ Cᴀɴ Uꜱᴇ Tʜɪꜱ Cᴏᴍᴍᴀɴᴅ 🕵🖥️*",
+          "group": "*Tʜɪꜱ Cᴏᴍᴍᴀɴᴅ Cᴀɴ Oɴʟʏ Bᴇ Uꜱᴇᴅ Iɴ Gʀᴏᴜᴘ 👥💻*",
+          "private": "*Oɴʟʏ Mʏ Oᴡɴᴇʀ Cᴀɴ Uꜱᴇ Tʜɪꜱ Cᴏᴍᴍᴀɴᴅ 🕵🖥️*",
+          "bot": "*Tʜɪꜱ Cᴏᴍᴍᴀɴᴅ Cᴀɴ Oɴʟʏ Bᴇ Uꜱᴇᴅ Iɴ Bᴏᴛ Nᴜᴍʙᴇʀ 👷💻*",
+          "wait": "*Pʀᴏᴄᴇꜱꜱɪɴɢ Yᴏᴜʀ RᴇQᴜᴇꜱᴛ ⏳*"
+      },
+      "error": {
+          "text": "*Uhh,Got an Error*"
+      }
+  }
+      }
